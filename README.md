@@ -16,7 +16,7 @@
 
 <h3 align="left">Coding Platforms:</h3>
 <div style="display: flex; gap: 15px;">
-  <a href="https://www.leetcode.com/sanjaymarathi" target="_blank">
+  <a href="https://www.leetcode.com/vk18sanjay" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="50" width="50" />
   </a>
   <a href="https://codeforces.com/profile/sanjaymarathiiii" target="_blank">
