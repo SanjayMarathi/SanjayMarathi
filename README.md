@@ -13,9 +13,9 @@
   <a href="https://linkedin.com/in/sanjaymarathi" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="50" width="50" />
   </a>
-  <a href="https://instagram.com/sanjaymarathiii" target="_blank">
+<!--   <a href="https://instagram.com/sanjaymarathiii" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="50" width="50" />
-  </a>
+  </a> -->
 </div>
 
 <h3 align="left">Coding Platforms:</h3>
